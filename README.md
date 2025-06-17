@@ -5,3 +5,6 @@ You can see the Regalition Mapping states of the Classes in the Spring Hibernate
 
 
 //Siz ContactManager  loyihamizdagi doc1 proyect qismida  Spring Hibernate Bo'limidagi Classlarning Regalition Mapping holatlarini ko'rishingiz mumkin. Har biri bilan bog'langanda classlar @ManyToOne , @ManyToMany,@OneToMany,@OneTOOne holatlarini ko'rishingiz mumkin. Spring Hibernate bilan Ko'pincha @ManyToOne va @ManyToMany ishlatamiz. Loihani kengaytirish imkoni bilan yaratdim.
+
+
+Bu oddiy ishlar uchun sinov edi. Hozir Spring Security plus Data Api projectlarni qilayapman 17.06 
